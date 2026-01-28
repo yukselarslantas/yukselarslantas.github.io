@@ -6,7 +6,6 @@ main:
     pdf: https://arxiv.org/pdf/2512.04561
     bibtex: https://yukselarslantas.github.io/bib/omniscient.txt
     image: ./assets/img/lin.png
-    notes: Pre-print
 
   - title: Convergence of Heterogeneous Learning Dynamics in Zero-Sum Stochastic Games
     authors: <strong>Yuksel Arslantas</strong>,Ege Yuceel, Yigit Yalin,  Muhammed O. Sayin
