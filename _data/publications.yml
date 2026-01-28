@@ -2,6 +2,7 @@ main:
 
   - title: Omniscient Attacker in Stochastic Security Games with Interdependent Nodes
     authors: <strong>Yuksel Arslantas</strong>, Ahmed Said Donmez, Ege Yuceel, Muhammed O. Sayin
+    conference_short: arXiv
     pdf: https://arxiv.org/pdf/2512.04561
     bibtex: https://yukselarslantas.github.io/bib/omniscient.txt
     image: ./assets/img/lin.png
