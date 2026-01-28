@@ -16,7 +16,15 @@ main:
     code: https://github.com/gdnlab/convergent_heterogeneous_learning
     bibtex: https://yukselarslantas.github.io/bib/heterogeneous.txt
     image: ./assets/img/hetero.png
-    
+
+  - title: Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games
+    authors: Ahmed Said Donmez, <strong>Yuksel Arslantas</strong>,  Muhammed O. Sayin
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/c9fd326fd03eaf52f672c31cde9658af-Paper-Conference.pdf
+    bibtex: https://yukselarslantas.github.io/bib/teamfp.txt
+    image: ./assets/img/teamfp.png
+  
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
