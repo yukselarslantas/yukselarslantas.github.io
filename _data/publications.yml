@@ -24,7 +24,7 @@ main:
     bibtex: https://yukselarslantas.github.io/bib/teamfp.txt
     image: ./assets/img/teamfp.png
 
-  - title: Strategizing Against Q-Learners: A Control-Theoretical Approach
+  - title: "Strategizing Against Q-Learners: A Control-Theoretical Approach"
     authors: <strong>Yuksel Arslantas</strong>,Ege Yuceel,  Muhammed O. Sayin
     conference_short: IEEE L-CSS
     conference: IEEE Control Systems Letters <strong>(IEEE L-CSS)</strong>, 2024.
