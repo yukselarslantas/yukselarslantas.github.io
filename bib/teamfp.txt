@@ -1,0 +1,8 @@
+@article{donmez2024team,
+  title={Team-fictitious play for reaching team-nash equilibrium in multi-team games},
+  author={D{\"o}nmez, Ahmed and Arslanta{\c{s}}, Y{\"u}ksel and Sayin, Muhammed},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={111515--111543},
+  year={2024}
+}
