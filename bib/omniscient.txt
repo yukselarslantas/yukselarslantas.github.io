@@ -1,0 +1,9 @@
+@misc{arslantas2025omniscientattackerstochasticsecurity,
+      title={Omniscient Attacker in Stochastic Security Games with Interdependent Nodes}, 
+      author={Yuksel Arslantas and Ahmed Said Donmez and Ege Yuceel and Muhammed O. Sayin},
+      year={2025},
+      eprint={2512.04561},
+      archivePrefix={arXiv},
+      primaryClass={cs.GT},
+      url={https://arxiv.org/abs/2512.04561}, 
+}
