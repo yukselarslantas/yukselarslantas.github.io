@@ -1,0 +1,9 @@
+@article{arslantas2024strategizing,
+  title={Strategizing against Q-learners: A control-theoretical approach},
+  author={Arslantas, Yuksel and Yuceel, Ege and Sayin, Muhammed O},
+  journal={IEEE Control Systems Letters},
+  volume={8},
+  pages={1733--1738},
+  year={2024},
+  publisher={IEEE}
+}
