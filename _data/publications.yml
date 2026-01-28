@@ -7,6 +7,15 @@ main:
     bibtex: https://yukselarslantas.github.io/bib/omniscient.txt
     image: ./assets/img/lin.png
     notes: Pre-print
+
+  - title: Convergence of Heterogeneous Learning Dynamics in Zero-Sum Stochastic Games
+    authors: <strong>Yuksel Arslantas</strong>,Ege Yuceel, Yigit Yalin,  Muhammed O. Sayin
+    conference_short: IEEE TAC
+    conference: IEEE Transactions on Automatic Control <strong>(IEEE TAC)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11021434
+    code: https://github.com/gdnlab/convergent_heterogeneous_learning
+    bibtex: https://yukselarslantas.github.io/bib/heterogeneous.txt
+    image: ./assets/img/hetero.png
     
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
