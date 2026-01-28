@@ -1,0 +1,10 @@
+@article{arslantas2024strategic,
+  title={Strategic Control of Experience-Weighted Attraction Model in Human-AI Interactions},
+  author={Arslantas, Yuksel and Sayin, Muhammed O},
+  journal={IFAC-PapersOnLine},
+  volume={58},
+  number={30},
+  pages={97--102},
+  year={2024},
+  publisher={Elsevier}
+}
