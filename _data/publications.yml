@@ -24,21 +24,6 @@ main:
     bibtex: https://yukselarslantas.github.io/bib/teamfp.txt
     image: ./assets/img/teamfp.png
 
-  - title: Strategizing Against Q-Learners: A Control-Theoretical Approach
-    authors: <strong>Yuksel Arslantas</strong>,Ege Yuceel,  Muhammed O. Sayin
-    conference_short: IEEE L-CSS
-    conference: IEEE Control Systems Letters <strong>(IEEE L-CSS)</strong>, 2024.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10561617
-    code: https://github.com/yukselarslantas/strategizing-against-q-learners
-    bibtex: https://yukselarslantas.github.io/bib/strategizeq.txt
-    image: ./assets/img/strategizeq.png
 
-  - title: Strategic Control of Experience-Weighted Attraction Model in Human-AI Interactions
-    authors: <strong>Yuksel Arslantas</strong>,  Muhammed O. Sayin
-    conference_short: IFAC CPHS
-    conference: IFAC Workshop on Cyber-Physical Human Systems <strong>(IFAC CPHS)</strong>, 2024.
-    pdf: https://pdf.sciencedirectassets.com/313346/1-s2.0-S2405896325X00033/1-s2.0-S2405896325001636/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIHJiiMzBQ8VoQYHe5lesDIhKLWMS8HFhsmASz%2FIO8crsAiEAj1ImWjEqJqf%2BsVvnOOLVoptjpEDihAEDdVvxSOh0O8YqswUIcBAFGgwwNTkwMDM1NDY4NjUiDBIYjnDjeXF%2BAxGVBSqQBcjp%2Fa8WipyDc9qqGxzCO8RE3XoaXSnVpW6FZbBNWo8tQTTszlgpO0fkSsXwMLShHMyutJo%2BE%2F%2BOc4DwXoNXVbt3P172IutvDrsrZJtRX%2FxgoxZyRFneSAq7Ujdyhbumozr799oWqeZV53195aZWYLiJEvYFbuvlLsmUPwT9jQ46meCIq51Zrh2XJee1ZI97fl9OdKUiNzcGFfrYwUKFY932tJacRKOKi1sop%2Bb5U%2BTC6od%2BIKGE3FfIzaBBM8OCm0dOHbKiOXgooRtyxK33U1W7oPTclh1m5BWKH5K6xiTitcCGoc61TLsL4yHWfvH24jjeTQbOAee1xNIhWYJm5zBKAe%2B6h7SOIH1f4NyrBdL%2B%2BW3wYVJkEqhDcq%2B16REH3gCXxi%2Fg%2F1OyrOtLVXYxp9U6QFosm9cHsEHONrQ8mEsEqNr94v1138o8wUdTxfE0ZN%2B5vdZiG%2Bm5%2FBbUr6YAxMUY%2FnUIr05TejCWw0vj4ZAieIm9JFU%2Bp%2B6DvctVB%2FXk53fqJ99S%2FBm%2FGzlFTr%2BW17K0TwekZE3LJPkxQF1VcbEm8SbUyFemuE0IsWCE6AsMDH1ikR9MvvgVRrDsqJzsOiZS1GdVYAs%2FZ2lj8%2FjMbG2QI1ftL8ZbR8YFcsu6YRGmpU6t5kHluAymHMPsu16i%2BJzvVm%2FBggGalGoWloHTjNeuvRD45oBG%2Fe7hOmP%2BvbTAiU6lcC%2BN7W%2FOHVN3YIljPh%2BlVZyGx4GnieITl%2FxVveRYHq%2F641hoJcxMFMTlwXvMyo3oMMZzbVOVAy7XCgEWGjEHKXLSphcBtshbcB3RecNL22GjIPnD8pq67eVmee458%2FxVNNvVe5lYhDwOK8%2BN1ZzLExIh3RTMQgLoP9Xfp4Z0ML%2FF6MsGOrEBtUOr8ndgyVJ4Q7Jz%2F6Hr1ZPxl3OCiOwr2u35qhZvP3D5Tr0oI%2Bm%2FVkWIk6tYm3i22NsCSnWtrBmo4dYL6LMQ0iaL1WPbhSrLZn8ep1P2rtwrLIdAqQ98jRJd0tNZYwyJXd52N4Z6P8Y6VHw8%2BBRVIi08dLwnCt%2FGslLxma78%2BkHOwHFx%2B20hSQgTaETtJoW5uV%2FB%2FDUeQeqKs1OCrq0EY96DgLNczZ6VltL4a3HjVVC1&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260128T154128Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYV2JULN3N%2F20260128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ee103bb30ef235dbb3ad3638c310bea5b805f89188ad17b1ca22781f9d8b920e&hash=9aac83a17359394064d85274604eb875353ff6686dad7b2b97a93fc5c5eebc5b&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2405896325001636&tid=spdf-94812265-7321-4b3a-82d4-0329d38cf151&sid=aa58bc226558894f017a2f7563e1b2018e1cgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=12135e025a515a5a5000&rr=9c51981cbc96b64f&cc=tr
-    bibtex: https://yukselarslantas.github.io/bib/ewa.txt
-    image: ./assets/img/ewa.png
   
 
