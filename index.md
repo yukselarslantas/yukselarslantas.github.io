@@ -8,7 +8,7 @@ I am currently pursuing a Ph.D. in Electrical and Electronics Engineering at Bil
 
 Check out our latest research contribution on multi-agent reinforcement learning at NeurIPS 2024
 
-[![NeurIPS 2024 Poster](../imgs/neuripsPosterFinal.png)](../imgs/neuripsPosterFinal.png)
+[![NeurIPS 2024 Poster](../assets/imgs/neuripsPosterFinal.png)](../assets/imgs/neuripsPosterFinal.png)
 
 
 ## News
