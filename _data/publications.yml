@@ -1,5 +1,12 @@
 main:
 
+  - title: Omniscient Attacker in Stochastic Security Games with Interdependent Nodes
+    authors: <strong>Yuksel Arslantas</strong>, Ahmed Said Donmez, Ege Yuceel, Muhammed O. Sayin
+    pdf: https://arxiv.org/pdf/2512.04561
+    bibtex: https://yukselarslantas.github.io/bib/omniscient.txt
+    image: ./assets/img/lin.png
+    notes: Pre-print
+    
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
