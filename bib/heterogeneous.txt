@@ -1,0 +1,10 @@
+@ARTICLE{arslantas2025convergence,
+  author={Arslantas, Yuksel and Yuceel, Ege and Yalin, Yigit and Sayin, Muhammed O.},
+  journal={IEEE Transactions on Automatic Control}, 
+  title={Convergence of Heterogeneous Learning Dynamics in Zero-Sum Stochastic Games}, 
+  year={2025},
+  volume={70},
+  number={11},
+  pages={7523-7537},
+  keywords={Games;Game theory;Stochastic processes;Convergence;Heuristic algorithms;Computational modeling;Training;Robot sensing systems;Q-learning;Optimization;Heterogeneous dynamics;multiagent learning;stochastic games (SGs);zero-sum games},
+  doi={10.1109/TAC.2025.3576039}}
