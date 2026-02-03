@@ -12,6 +12,7 @@ Check out our latest research contribution on multi-agent reinforcement learning
 
 ## News
 
+- **[Jan. 2026]** Our paper titled "Actor-Dual-Critic Dynamics for Zero-sum and Identical-Interest Stochastic Games" is now live on arXiv!
 - **[Dec. 2025]** Our paper titled "Omniscient Attacker in Stochastic Security Games with Interdependent Nodes" is now live on arXiv!
 - **[Jun. 2025]** Our paper "Convergence of Heterogeneous Learning Dynamics in Zero-sum Stochastic Games" has been accepted for publication in the **IEEE Transactions on Automatic Control (IEEE TAC)**!
 - **[Sep. 2024]** Our paper "Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games" has been accepted for presentation at the **[NeurIPS 2024](https://neurips.cc/virtual/2024/poster/96521)**!
