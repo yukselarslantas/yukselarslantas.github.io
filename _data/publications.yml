@@ -1,5 +1,12 @@
 main:
 
+  - title: Actor-Dual-Critic Dynamics for Zero-sum and Identical-Interest Stochastic Games
+    authors: Ahmed Said Donmez, <strong>Yuksel Arslantas</strong>, Muhammed O. Sayin
+    conference_short: arXiv
+    pdf: https://arxiv.org/pdf/2602.00606
+    bibtex: https://yukselarslantas.github.io/bib/adc.txt
+    image: ./assets/img/adc.png
+
   - title: Omniscient Attacker in Stochastic Security Games with Interdependent Nodes
     authors: <strong>Yuksel Arslantas</strong>, Ahmed Said Donmez, Ege Yuceel, Muhammed O. Sayin
     conference_short: arXiv
