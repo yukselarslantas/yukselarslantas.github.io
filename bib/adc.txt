@@ -1,0 +1,9 @@
+@misc{donmez2026actordualcritic,
+      title={Actor-Dual-Critic Dynamics for Zero-sum and Identical-Interest Stochastic Games}, 
+      author={Ahmed Said Donmez and Yuksel Arslantas and Muhammed O. Sayin},
+      year={2026},
+      eprint={2602.00606},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.00606}, 
+}
